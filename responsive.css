@@ -1,0 +1,31 @@
+@media(max-width:770px){
+
+    .header-search svg{
+        width:1em;
+        font-weight: 400;
+    }
+
+    .header-left{
+        margin-left:0;
+        margin-right:0;
+        padding:1.5em;
+    }
+    .header-location{
+        /* margin-right: 1.5em; */
+        display: none;
+
+    }
+    .section-1 img{
+        display: none;
+    
+    }
+
+
+    /* .header-location-title{
+        font-size: .789em;
+        font-weight: 400;
+        margin-bottom: .5em;
+    
+    } */
+    
+}
